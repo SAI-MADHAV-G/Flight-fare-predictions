@@ -1,2 +1,8 @@
 
 Dataset -https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh
+
+Objective - The objective is to predict flight prices given the various parameters.
+
+Solution - Performed Exploratory analysis and data were preprocessed as suitable for model building and performed various regression models 
+
+Results -  Achieved an R2 score of 82 with Random Forest Regressor.
